@@ -2,7 +2,7 @@
   <img src="https://64.media.tumblr.com/6b9d5fbcc7d6ebe2c3636ed25a550787/f02e19988b551a66-43/s540x810/39cc4bf0a8362783bac5b521db60402238529c64.gifv" alt="MasterHead">
 </p>
 
-<h1 align="center">Hi 👋, I'm Eya CHAIBNI</h1>
+<h1 align="center">Hi 👋, I'm Eya CHAIBNI 🌱</h1>
 <h3 align="center">A passionate developer from Tunisia</h3>
 <img align="right" alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/1*VBmyrtjHs4ABFx0vGQq43A.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyach01&label=Profile%20views&color=0e75b6&style=flat" alt="eyach01" /> </p>
