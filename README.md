@@ -1,13 +1,17 @@
+<p align="center"  width="900">
+  <img src="https://64.media.tumblr.com/6b9d5fbcc7d6ebe2c3636ed25a550787/f02e19988b551a66-43/s540x810/39cc4bf0a8362783bac5b521db60402238529c64.gifv" alt="MasterHead">
+</p>
+
 <h1 align="center">Hi 👋, I'm Eya CHAIBNI</h1>
 <h3 align="center">A passionate developer from Tunisia</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"
+<img align="right" alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/1*VBmyrtjHs4ABFx0vGQq43A.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyach01&label=Profile%20views&color=0e75b6&style=flat" alt="eyach01" /> </p>
 
 - 🌱 I’m currently learning **HTML, JS**
 
 - 📫 How to reach me **eya.chaibni@esprit.tn**
 
-- ⚡ Fun fact **I love reading about stuff**
+- ⚡ Fun fact **I love reading books and stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
